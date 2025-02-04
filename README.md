@@ -7,7 +7,7 @@
   --->
 
 
-I am a back-end developer with 5 years of experience. I hold a degree in Computer Science, and throughout my professional journey, I've had the opportunity to contribute to various projects spanning different industries.
+I am a back-end developer with 6 years of experience. I hold a degree in Computer Science, and throughout my professional journey, I've had the opportunity to contribute to various projects spanning different industries.
 My main hobbies include watching and playing basketball, engaging in table tennis matches, and playing the bass guitar in my free time. These activities help balance my life between a passion for technology and an appreciation for physical and musical pursuits.
 
 My professional experience encompasses projects in the healthcare, marketplace, camera monitoring, digital banking, and payment processing sectors. Over the years, I've utilized a variety of technologies to create efficient and innovative solutions. 
